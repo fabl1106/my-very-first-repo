@@ -1,5 +1,4 @@
 
-
 a = "hello world"
-for _ in range(5):
-	print(a) 
+for i in range(0,11,2):
+	print(i) 
